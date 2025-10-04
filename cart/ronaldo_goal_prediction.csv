@@ -1,0 +1,15 @@
+Opponent Strength,Match Location,Ronaldo’s Form,Team Support,Scored
+Strong,Away,Good,High,No
+Weak,Home,Excellent,High,Yes
+Medium,Away,Average,Low,No
+Weak,Home,Good,Medium,Yes
+Strong,Home,Excellent,High,Yes
+Medium,Away,Poor,Low,No
+Weak,Away,Good,High,Yes
+Medium,Home,Average,Medium,No
+Strong,Home,Excellent,Medium,Yes
+Weak,Away,Poor,High,No
+Medium,Home,Good,High,Yes
+Strong,Away,Average,Medium,No
+Medium,Home,Excellent,High,Yes
+Weak,Home,Average,Medium,Yes
