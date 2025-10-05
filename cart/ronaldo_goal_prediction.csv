@@ -1,15 +1,13 @@
-Opponent Strength,Match Location,Ronaldo’s Form,Team Support,Scored
-Strong,Away,Good,High,No
-Weak,Home,Excellent,High,Yes
-Medium,Away,Average,Low,No
-Weak,Home,Good,Medium,Yes
-Strong,Home,Excellent,High,Yes
-Medium,Away,Poor,Low,No
-Weak,Away,Good,High,Yes
-Medium,Home,Average,Medium,No
-Strong,Home,Excellent,Medium,Yes
-Weak,Away,Poor,High,No
-Medium,Home,Good,High,Yes
-Strong,Away,Average,Medium,No
-Medium,Home,Excellent,High,Yes
-Weak,Home,Average,Medium,Yes
+Сила суперника,Місце матчу,Форма Роналдо,Підтримка команди,Забив
+Сильний,В гостях,Добра,Висока,Ні
+Слабкий,Дома,Добра,Висока,Так
+Слабкий,В гостях,Погана,Низька,Ні
+Слабкий,Дома,Добра,Низька,Так
+Сильний,Дома,Добра,Висока,Так
+Слабкий,В гостях,Погана,Низька,Ні
+Слабкий,В гостях,Добра,Висока,Так
+Слабкий,Дома,Погана,Низька,Ні
+Сильний,Дома,Добра,Низька,Так
+Слабкий,В гостях,Погана,Висока,Ні
+Слабкий,Дома,Добра,Висока,Так
+Сильний,В гостях,Погана,Низька,Ні
